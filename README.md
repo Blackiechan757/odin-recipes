@@ -9,3 +9,10 @@ there will be lists to decribe the steps within each and a few elements to add f
 
 Post-project summary
 
+This project required knowlege and utilization of the following: 
+-command line utilization 
+-git commands
+-basic HTML commands: list, Title, Paragraph, Images, Headings, Text modification and more.
+-Text editor knowlege: commit changes, navigation. 
+
+In all for a basline project i would reccomend this to anyone looking for a way to solidify their basic skills using HTML
